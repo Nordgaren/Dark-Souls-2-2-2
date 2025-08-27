@@ -5,7 +5,7 @@ Dark Souls 2: Scholar of the First Sin Double Enemies mod
 This is a double enemies mod for Dark Souls 2. It doubles all enemies in the game, including bosses.
 
 # Install
-Grab the latest files from the [release](https://github.com/Nordgaren/Dark-Souls-2-2-2/releases) section (zip or 7z, they are both the same) and put the contents of the folder in to the Dark Souls 2: Scholar of the First Sin folder. Launch the game.
+Grab the latest files from the [release](https://github.com/Nordgaren/Dark-Souls-2-2-2/releases) section (zip or 7z, they are both the same) and extract put the contents of the archive in to the `Dark Souls II Scholar of the First Sin\Game` folder. This should add a "mod" folder to your game folder where the `DarkSoulsII.exe` is. Launch the game.
 
 # Bugs
 * Doubled crystal lizards don't despawn as they should
